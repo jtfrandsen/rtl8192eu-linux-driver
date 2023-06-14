@@ -51,7 +51,7 @@ from source when the kernel is upgraded (for example using your package manager)
 2. Clone this repository and change your directory to cloned path.
 
     ```shell
-    git clone https://github.com/Mange/rtl8192eu-linux-driver
+    git clone https://github.com/jtfrandsen/rtl8192eu-linux-driver
     ```
     ```shell
     cd rtl8192eu-linux-driver
